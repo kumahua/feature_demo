@@ -17,6 +17,7 @@ import retrofit2.Response
 
 // dev
 // t1_child
+// t1_child2
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var adapter: MainAdapter

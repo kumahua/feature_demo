@@ -15,7 +15,7 @@ import com.google.android.material.snackbar.Snackbar
 import retrofit2.Call
 import retrofit2.Response
 
-
+// dev
 class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     private lateinit var adapter: MainAdapter
